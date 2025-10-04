@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+databases
+pydantic
+python-jose[cryptography]
+bcrypt==4.3.0
+alembic  # optional for migrations
